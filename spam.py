@@ -4,7 +4,7 @@ import time
 #the above shows how to pull the necessary packages for this to work! If you do not already have the package, you can download it with the "pip install pynput" command!
 
 
-message = "Hi I am the message to be spammed! Joine our server discord.gg/help today!"
+message = "Hi I am the message to be spammed! Join our server discord.gg/help today!"
 #obviously, you can change the message above to something else!
 
 keyboard = Controller()
